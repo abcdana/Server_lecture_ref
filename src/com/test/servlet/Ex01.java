@@ -53,6 +53,9 @@ public class Ex01 extends HttpServlet {
 		//http://localhost:8090/ServletTest/Hello
 		//http://localhost:8090/ServletTest/hello.html (겉보기에만 html파일일 뿐 java임)
 		
+		
+		//해당 내용은 테스트입니다.
+		
 	}
 			
 }
